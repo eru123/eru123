@@ -1,4 +1,4 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=eru123&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/eru123)
+[![stats](https://github-readme-stats.vercel.app/api?username=eru123&show_icons=true&theme=tokyonight&hide=issues)](https://eru123.github.com/portfolio)
 <br />
 [![pepejs](https://img.shields.io/badge/npm%20-Pepe%20JS-red.svg?logo=npm&style=flat)](https://github.com/eru123/pepejs)
 [![linker](https://img.shields.io/badge/composer%20-Linker%20Framework-blue.svg?logo=composer&style=flat)](https://github.com/eru123/linker)
