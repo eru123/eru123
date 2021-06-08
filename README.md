@@ -7,5 +7,7 @@
 [![linker](https://img.shields.io/badge/composer%20-NoEngine-blue.svg?logo=composer&style=flat)](https://github.com/eru123/NoEngine)
 [![linker](https://img.shields.io/badge/vue%20-Manga%20Reader-teal.svg?logo=yarn&style=flat)](https://github.com/eru123/pepe-mangareader)
 [![linker](https://img.shields.io/badge/vue%20-BPNHS-teal.svg?logo=yarn&style=flat)](https://github.com/eru123/bpnhs-client)
+# About
+Follow me on my [Social Accounts](https://linky.ph/lighty262) 
 # Community
 Find my latest tutorials, community collaborations and solutions on [My Organization](https://github.com/psubpc)
