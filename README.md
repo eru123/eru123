@@ -11,3 +11,5 @@
 Follow me on my [Social Accounts](https://linky.ph/lighty262) 
 # Community
 Find my latest tutorials, community collaborations and solutions on [My Organization](https://github.com/psubpc)
+### Test (Warning: Do not click!)
+[Test Link](fb-messenger://share/?link=https%3A%2F%2Fgithub.com%2Feru123)
