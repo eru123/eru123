@@ -27,14 +27,58 @@ read: [reference](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
  - Windows
 
 ```bash
-attrib -h -r -s /s /d repo_folder
-rmdir /s /q repo_folder
+attrib -h -r -s /s /d <repo_folder>
+rmdir /s /q <repo_folder>
 ```
 
  - Linux
 
 ```bash
-rm -rf repo_folder
+rm -rf <repo_folder>
 ```
 
 read: [windows reference](https://stackoverflow.com/questions/17369850/how-to-remove-git-repository-created-on-desktop), [linux reference](https://www.geeksforgeeks.org/deleting-a-local-github-repository/)
+
+### Git submodules
+
+1. Add a submodule
+
+```bash
+git submodule add <repo_url> <submodule_path>
+```
+
+2. Update or pull a submodule
+
+```bash
+git submodule update --remote
+git submodule update
+```
+
+3. Delete a submodule
+
+ - Windows
+
+```bash
+git submodule deinit <submodule_path>
+git rm <submodule_path>
+git commit-m "remove: submodule"
+attrib -h -r -s /s /d .git/modules/<submodule_path>
+rmdir /s /q .git/modules/<submodule_path>
+```
+
+ - Linux
+
+```bash
+git submodule deinit <submodule_path>
+git rm <submodule_path>
+git commit-m "remove: submodule"
+rm -rf .git/modules/<path_to_submodule>
+```
+
+4. Clone a git repo including it's submodules
+
+```bash
+git clone --recurse-submodules --remote-submodules -j8 <repo_url>
+```
+
+read: [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules), [delete submodule](https://gist.github.com/myusuf3/7f645819ded92bda6677), [clone repo with submodules](https://stackoverflow.com/questions/3796927/how-to-git-clone-including-submodules)
