@@ -12,9 +12,9 @@
 
 # About
 
-**Follow me on:** [Social media](https://linky.ph/lighty262)
+**Follow me on my** [Social Media Accounts](https://linky.ph/lighty262)
 
 **Organizations:** [psubpc](https://github.com/psubpc), [Skidd PH](https://github.com/skiddph)
 
-**Notes**: [Git](https://eru123.github.io/eru123/git)
+**Notes**: [Git](https://eru123.github.io/eru123/git), [Docker](https://eru123.github.io/eru123/docker)
 
