@@ -16,5 +16,5 @@
 
 **Organizations:** [psubpc](https://github.com/psubpc), [Skidd PH](https://github.com/skiddph)
 
-**Notes**: [Git](https://eru123.github.io/eru123/git), [Docker](https://eru123.github.io/eru123/docker)
+**Notes**: [Git](https://eru123.github.io/eru123/git), [Docker](https://eru123.github.io/eru123/docker), [NodeJS](https://eru123.github.io/eru123/node)
 
