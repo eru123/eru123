@@ -1,5 +1,6 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=eru123&show_icons=true&theme=tokyonight&hide=issues)](https://eru123.github.io/eru123)
-![](https://github-profile-trophy.vercel.app/?username=eru123)
+<img style="width:100%;max-width:100px;" src="https://github-readme-stats.vercel.app/api?username=eru123&show_icons=true&theme=tokyonight">
+<img style="width:100%;max-width:100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eru123&layout=compact">
+<img style="width:100%;max-width:100px;" src="https://github-profile-trophy.vercel.app/?username=eru123">
 
 # About
 
