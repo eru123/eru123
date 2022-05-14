@@ -20,9 +20,21 @@ import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 library.add(faPhone);
 
 export default defineNuxtPlugin((nuxtApp) => {
-  nuxtApp.vueApp.component("font-awesome-icon", FontAwesomeIcon)
+  nuxtApp.vueApp.component("icon", FontAwesomeIcon)
 })
 ```
+
+### Usage
+
+```vue
+<!-- explicit style -->
+<icon :icon="['fas', 'phone']" />
+
+<!-- implicit style (fas is assumed) -->
+<icon icon="phone" />
+```
+
+
 # Setup FontAwesome with Vue 3
 
 ### Install Dependecies
@@ -54,4 +66,17 @@ library.add(farMG)
 const app = createApp(App)
 app.component('icon', FontAwesomeIcon)
 app.mount('#app')
+```
+
+### Usage
+
+```vue
+<!-- explicit style -->
+<icon :icon="['fas', 'magnifying-glass']" />
+
+<!-- explicit style -->
+<icon :icon="['far', 'magnifying-glass']" />
+
+<!-- implicit style (fas is assumed) -->
+<icon icon="magnifying-glass" />
 ```
