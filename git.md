@@ -14,7 +14,12 @@ git config --global user.name "eru123"
 git config --global user.email "yeoligoakino@gmail.com"
 ```
 
-3. check global config
+3. Store git credentials on Ubuntu
+```bash
+git config --global credential.helper store
+```
+
+4. check global config
 
 ```bash
 git config --global --list
