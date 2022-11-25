@@ -11,7 +11,7 @@ git config --global user.name "eru123"
 2. add email
 
 ```bash
-git config --global user.email "yeoligoakino@gmail.com"
+git config --global user.email "39824083+eru123@users.noreply.github.com"
 ```
 
 3. Store git credentials on Ubuntu
