@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=eru123&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true">
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=eru123&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&custom_title=Github%20Stats&rank_icon=default&card_width=500px">
   <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eru123&layout=compact&langs_count=10&hide_border=true&theme=nord"> -->
   <!-- <img width="100%" src="https://github-profile-trophy.vercel.app/?username=eru123&theme=nord&row=2&column=4&no-frame=true"> -->
   <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=eru123&theme=nord&date_format=M[,%20Y]&hide_border=true&fire=tomato">
