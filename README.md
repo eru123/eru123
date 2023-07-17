@@ -4,6 +4,6 @@
 - 👯 I’m looking to collaborate on [holyphp](https://github.com/eru123/holyphp)
 - 🤔 I’m looking for help with project ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: jericho@skiddph.com
+- 📫 You can reach me via email [jericho@skiddph.com](mailto:Jericho<jericho@skiddph.com>)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading manhwa
