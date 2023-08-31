@@ -7,3 +7,5 @@
 - 📫 You can reach me via email [jericho@skiddph.com](mailto:Jericho<jericho@skiddph.com>)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading manhwa
+
+[![committers.top badge](https://user-badge.committers.top/philippines/eru123.svg)](https://user-badge.committers.top/philippines/eru123)
