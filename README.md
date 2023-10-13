@@ -7,7 +7,7 @@
 - 💬 Ask me about anything related to web development
 - 📫 You can reach me via email [jericho@skiddph.com](mailto:Jericho<jericho@skiddph.com>)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love reading manhwa
+- ⚡ Fun fact: I love reading manhwas, specifically martial arts and isekai genre
 
 [![committers.top badge](https://user-badge.committers.top/philippines/eru123.svg)](https://user-badge.committers.top/philippines/eru123)
 [![Discord](https://img.shields.io/discord/823693851696037899.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ugSanJu5BJ)
