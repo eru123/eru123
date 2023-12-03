@@ -30,6 +30,14 @@ If you like my works, please consider [sponsoring](https://github.com/sponsors/e
    - Integrated PhpMyAdmin/Adminer through proxy path
    - Support for Multiple Major PHP Versions
    - ini files editor
+ - [PhpDM](https://github.com/eru123/phpdm) - A docker based data metrics collector/producer with built-in integration for specific web development applications:
+   - Log Collector for Nginx Proxy/Standard logging
+   - Log Collector for Apache2
+   - MySQL Integration and MySQL metrics
+   - System Resource metrics (e.g. Memory, CPU, Disk, Network in/out, Up time)
+   - Docker containers metrics (e.g Log, System Resource)
+   - CoX Panel Dashboard Analytics Compatible
+   - Can be used as an alternative data producer for Grafana or Kibana when using MySQL as data source. 
 
 [![committers.top badge](https://user-badge.committers.top/philippines/eru123.svg)](https://user-badge.committers.top/philippines/eru123)
 [![Discord](https://img.shields.io/discord/823693851696037899.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ugSanJu5BJ)
