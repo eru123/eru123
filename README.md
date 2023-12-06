@@ -39,6 +39,8 @@ If you like my works, please consider [sponsoring](https://github.com/sponsors/e
    - CoX Panel Dashboard Analytics Compatible
    - Can be used as an alternative data producer for Grafana or Kibana when using MySQL as data source. 
 
+[![eru123](https://komarev.com/ghpvc/?username=eru123&color=blue)](https://github.com/eru123)
 [![committers.top badge](https://user-badge.committers.top/philippines/eru123.svg)](https://user-badge.committers.top/philippines/eru123)
 [![Discord](https://img.shields.io/discord/823693851696037899.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ugSanJu5BJ)
 [![Twitter](https://img.shields.io/twitter/follow/jericho_dev?label=Twitter&style=social)](https://twitter.com/jericho_dev)
+
