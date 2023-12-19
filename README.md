@@ -11,7 +11,9 @@
 
 If you like my works, please consider [sponsoring](https://github.com/sponsors/eru123) me to support my project's expenses.
 
-##### Projects you might want to consider subscribing with Sponsorship
+<details>
+ <summary>Projects you might want to consider subscribing with Sponsorship</summary>
+
  - [CoX](https://github.com/eru123/cox) (`Private`) - A simple and lightweight docker-based enterprise webhosting control panel. Here is the core features:
    - **Access Control List (ACL) based authentication system** - A security control system that regulates and validates user action, this can give users a direct control over specific only resource in the system (e.g. Manage user, Create Database, etc.)
    - **Subcription Model** - If registration enabled or you created a user with no system control, users can buy or redeem a subcription for a specific or a bundled service/products and manage them without system administrative control.
@@ -38,6 +40,22 @@ If you like my works, please consider [sponsoring](https://github.com/sponsors/e
    - Docker containers metrics (e.g Log, System Resource)
    - CoX Panel Dashboard Analytics Compatible
    - Can be used as an alternative data producer for Grafana or Kibana when using MySQL as data source. 
+
+</details>
+
+<details>
+<summary>GitHub Stats</summary>
+
+[![profile-summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eru123&theme=github_dark&card_width=500px)](https://github.com/eru123)
+
+[![profile-summary](https://github-readme-stats.vercel.app/api/top-langs/?username=eru123&layout=compact&langs_count=10&hide_border=true&theme=github_dark)](https://github.com/eru123)
+
+[![profile-summary](https://github-profile-trophy.vercel.app/?username=eru123&theme=nord&row=2&column=4&no-frame=true)](https://github.com/eru123)
+
+[![profile-summary](https://github-readme-stats.vercel.app/api?username=eru123&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&custom_title=Github%20Stats&rank_icon=default&card_width=500px)](https://github.com/eru123)
+
+[![profile-summary](https://github-readme-streak-stats.herokuapp.com/?user=eru123&theme=github_dark&date_format=M[,%20Y]&hide_border=true&fire=tomato)](https://github.com/eru123)
+</details>
 
 [![eru123](https://komarev.com/ghpvc/?username=eru123&color=blue)](https://github.com/eru123)
 [![committers.top badge](https://user-badge.committers.top/philippines/eru123.svg)](https://user-badge.committers.top/philippines/eru123)
