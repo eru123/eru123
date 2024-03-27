@@ -62,3 +62,6 @@ If you like my works, please consider [sponsoring](https://github.com/sponsors/e
 [![Discord](https://img.shields.io/discord/823693851696037899.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ugSanJu5BJ)
 [![Twitter](https://img.shields.io/twitter/follow/jericho_dev?label=Twitter&style=social)](https://twitter.com/jericho_dev)
 
+[![autocomplete](https://codeium.com/badges/user/jericho/autocomplete)](https://codeium.com/profile/jericho)
+[![streak](https://codeium.com/badges/v2/user/jericho/streak)](https://codeium.com/profile/jericho)
+
