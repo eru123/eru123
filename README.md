@@ -55,6 +55,8 @@ If you like my works, please consider [sponsoring](https://github.com/sponsors/e
 [![profile-summary](https://github-readme-stats.vercel.app/api?username=eru123&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&custom_title=Github%20Stats&rank_icon=default&card_width=500px)](https://github.com/eru123)
 
 [![profile-summary](https://github-readme-streak-stats.herokuapp.com/?user=eru123&theme=github_dark&date_format=M[,%20Y]&hide_border=true&fire=tomato)](https://github.com/eru123)
+
+[![profile-summary](https://codeium.com/profile/jericho/card.png)](https://codeium.com/profile/jericho)
 </details>
 
 [![eru123](https://komarev.com/ghpvc/?username=eru123&color=blue)](https://github.com/eru123)
