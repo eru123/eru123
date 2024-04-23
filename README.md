@@ -59,6 +59,8 @@ If you like my works, please consider [sponsoring](https://github.com/sponsors/e
 [![profile-summary](https://codeium.com/profile/jericho/card.png)](https://codeium.com/profile/jericho)
 </details>
 
+<a href="https://gitroll.io/profile/uxE5zHNonc7OQfTpwgFgfaClgBs42" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxE5zHNonc7OQfTpwgFgfaClgBs42" alt="GitRoll Profile Badge"/></a>
+
 [![eru123](https://komarev.com/ghpvc/?username=eru123&color=blue)](https://github.com/eru123)
 [![committers.top badge](https://user-badge.committers.top/philippines/eru123.svg)](https://user-badge.committers.top/philippines/eru123)
 [![Discord](https://img.shields.io/discord/823693851696037899.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ugSanJu5BJ)
