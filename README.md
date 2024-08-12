@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love reading manhwas, specifically martial arts and isekai genre
 
 <details>
- <summary>Ongoing Projects</summary>
+ <summary>Ongoing/Planned Solo Projects</summary>
 
  - [CoX](https://github.com/eru123/cox) (`Private`) - A simple and lightweight docker-based enterprise webhosting control panel. Here is the core features:
    - **Access Control List (ACL) based authentication system** - A security control system that regulates and validates user action, this can give users a direct control over specific only resource in the system (e.g. Manage user, Create Database, etc.)
