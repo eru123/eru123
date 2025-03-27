@@ -7,6 +7,7 @@
 
 <details>
  <summary>Ongoing/Planned Solo Projects</summary>
+ 
  - [Knights](https://github.com/eru123/knights) (`Private`) - An Integrated Management System for Educational Instituition, this includes HR Solutions, Finance Management, School Registrar, Employees and Students Portal, Inventory System, POS System and Plugin System for third party features and usage.
  - [Wyue](https://github.com/eru123/wyue) - A PHP Framework for creating Applications with Vite.
 </details>
