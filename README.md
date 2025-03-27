@@ -7,10 +7,6 @@
 
 <details>
  <summary>Ongoing/Planned Solo Projects</summary>
-
- - [CoX](https://github.com/eru123/cox) (`Private`) - A simple and lightweight docker-based enterprise webhosting control panel.
- - [CoX Webhost](https://github.com/eru123/cox-webhost) (`Private`) - A docker based FTP and Webhost management.
- - [PhpDM](https://github.com/eru123/phpdm) - A docker based data metrics collector/producer with built-in integration for specific web development applications
  - [Knights](https://github.com/eru123/knights) (`Private`) - An Integrated Management System for Educational Instituition, this includes HR Solutions, Finance Management, School Registrar, Employees and Students Portal, Inventory System, POS System and Plugin System for third party features and usage.
  - [Wyue](https://github.com/eru123/wyue) - A PHP Framework for creating Applications with Vite.
 </details>
