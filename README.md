@@ -35,7 +35,3 @@
 [![Twitter](https://img.shields.io/twitter/follow/jericho_dev?label=Twitter&style=social)](https://twitter.com/jericho_dev)
 
 <!-- [![streak](https://codeium.com/badges/v2/user/jericho/streak)](https://codeium.com/profile/jericho) -->
-
-
-
-<!-- Security scan triggered at 2025-09-02 01:47:46 -->
