@@ -1,14 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-```
-  ███████╗██████╗ ██╗   ██╗ ██╗██████╗ ██████╗
-  ██╔════╝██╔══██╗██║   ██║███║╚════██╗╚════██╗
-  █████╗  ██████╔╝██║   ██║╚██║ █████╔╝ █████╔╝
-  ██╔══╝  ██╔══██╗██║   ██║ ██║ ╚═══██╗ ╚═══██╗
-  ███████╗██║  ██║╚██████╔╝ ██║██████╔╝██████╔╝
-  ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═╝╚═════╝ ╚═════╝
-```
+![ASCII](https://gh-stats.skiddph.com/api/ascii?text=ERU123&style=shadow&bg_color=0d1117&color=79ff97)
 
 ### Jericho Aquino · SKIDDPH · *One in a billion bugs* 🐞
 
@@ -116,7 +109,7 @@ f6a7b8c  Found a one-in-a-billion bug. Naturally, I'm the one.
 
 ![Streak](https://streak-stats.demolab.com/?user=eru123&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eru123)](https://github.com/eru123)
+[![Top Langs](https://gh-stats.skiddph.com/api/top-langs?username=eru123&layout=compact&langs_count=10&hide=html,css&exclude_repo=old-project&theme=tokyonight)](https://github.com/eru123)
 
 </div>
 
