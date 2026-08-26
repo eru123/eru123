@@ -107,7 +107,7 @@ f6a7b8c  Found a one-in-a-billion bug. Naturally, I'm the one.
 ![Contributions](https://img.shields.io/badge/Total_Contributions-10%2C174-58a6ff?style=for-the-badge&logo=github&logoColor=white)
 ![Since](https://img.shields.io/badge/Since-Jun_2018-8b949e?style=for-the-badge&logo=github&logoColor=white)
 
-![Streak](https://streak-stats.demolab.com/?user=eru123&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![Streak](https://gh-stats.skiddph.com/api/streak?username=eru123&theme=dark)
 
 [![Top Langs](https://gh-stats.skiddph.com/api/top-langs?username=eru123&layout=compact&langs_count=10&hide=html,css&exclude_repo=old-project&theme=tokyonight)](https://github.com/eru123)
 
