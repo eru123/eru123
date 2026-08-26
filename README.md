@@ -103,16 +103,16 @@ f6a7b8c  Found a one-in-a-billion bug. Naturally, I'm the one.
 ## `$ htop` — GitHub Stats
 
 <div align="center">
-
-![Contributions](https://img.shields.io/badge/Total_Contributions-10%2C174-58a6ff?style=for-the-badge&logo=github&logoColor=white)
-![Since](https://img.shields.io/badge/Since-Jun_2018-8b949e?style=for-the-badge&logo=github&logoColor=white)
-
-![Streak](https://gh-stats.skiddph.com/api/streak?username=eru123&theme=dark)
-
-[![Top Langs](https://gh-stats.skiddph.com/api/top-langs?username=eru123&layout=compact&langs_count=10&hide=html,css&exclude_repo=old-project&theme=tokyonight)](https://github.com/eru123)
-
+  <img src="https://gh-stats.skiddph.com/api/stats?username=eru123&theme=tokyonight&show_icons=true" width="400px" alt="stats" />
 </div>
 
+<div align="center">
+  <img src="https://gh-stats.skiddph.com/api/streak?username=eru123&theme=tokyonight" width="400px" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://gh-stats.skiddph.com/api/top-langs?username=eru123&layout=compact&theme=tokyonight" width="400px" alt="langs" />
+</div>
 ---
 
 ## `$ ping eru123`
